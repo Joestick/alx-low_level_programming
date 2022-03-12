@@ -1,4 +1,3 @@
-#!/bin/bash
 1 #include <studio.h>
 2 /**
 3 * main - main block
