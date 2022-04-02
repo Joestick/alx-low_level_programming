@@ -1,0 +1,1 @@
+this is my readme file for more pointers and array, listen guys i almost gave up on this tasks but because of my relationship with my colleagues they helped me up and motivated me to be on track, i like the fact that they considered me a part of their team, i guess i am good team player
